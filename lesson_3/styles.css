@@ -1,0 +1,53 @@
+/* body {
+    
+}
+
+.size-up {
+    font-size: 50pt;
+/* } */
+
+
+/* .rotate {
+    transform: rotate(45deg);
+} */ 
+/* #red {
+
+
+    color: red;
+} */
+
+/* .grey-cube {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+} */
+
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: forestgreen;
+    border-width: 7px;
+    width: 10%;
+}
+
+.custom-ul {
+    list-style-type: "✔";
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: aquamarine;
+    text-decoration: underline;
+}
